@@ -1,4 +1,4 @@
-# Panel-colourer-fork-
+# Panel-colorer-fork-
 Plugin for the Far Manager and ConEmu
 panel-colorer
 Innovative UI plugin for FAR manager and ConEmu console emulator
