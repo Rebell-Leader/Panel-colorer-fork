@@ -1,0 +1,10 @@
+10	New	При переходе на временную панель - FTP и прочие плагин-страницы не всегда обновляется фон Type-Defect Priority-Medium
+9	New	Не обновляется фон при переключении между разными экземплярами фара Type-Defect Priority-Medium
+8	Fixed	Тормоза фара из-за PanelColorer'а Type-Defect Priority-Medium
+7	WontFix	The plugin does not work with FAR x64 Type-Defect Priority-Medium
+6	Fixed	ошибка при работе с ФТП Type-Defect Priority-Medium
+5	Done	Пожелания к выходу первой версии Type-Defect Priority-Medium
+4	Fixed	Падение Far'а при работе с архивами из-за PanelColorer Type-Defect Priority-Medium
+3	New	при наличии плагина PanelColorer.dll завершается работа Conemu/FAR Type-Defect Priority-Medium
+2	Fixed	Некоректная работа panel-colorer Type-Defect Priority-Medium
+1	Fixed	Не всегда отрабатывается переключение плагинов Type-Defect Priority-Medium
